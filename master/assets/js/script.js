@@ -70,7 +70,7 @@ loadProject = (project) => {
   );
   projectHref.setAttribute(
     "href",
-    `https://ladunjexa.github.io/jQuery-SPA-Boilerplates/${project.name}/}`
+    `https://ladunjexa.github.io/jQuery-SPA-Boilerplates/${project.name}/`
   );
   projectHrefBtn.innerHTML = `Go to ${project.name.replace("-", " ")}`;
 };
