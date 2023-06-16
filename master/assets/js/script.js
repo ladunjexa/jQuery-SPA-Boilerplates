@@ -25,7 +25,7 @@ let techContainerClasses =
 
 let techContainer = document.querySelector(".technologies-container");
 let portfolioList = document.querySelector(".portfolio-list");
-let projectContainer = document.querySelector(".project-container");
+let projectContainer = document.querySelector(".macbook-project-mockup");
 let projectHref = document.querySelector(".project-href");
 let projectHrefBtn = document.querySelector(".project-href-button");
 let githubNavLink = document.querySelector(".github-button-link");
